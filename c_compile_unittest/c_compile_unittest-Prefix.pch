@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'c_compile_unittest' target in the 'c_compile_unittest' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
